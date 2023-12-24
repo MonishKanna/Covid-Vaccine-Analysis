@@ -1,0 +1,101 @@
+country,total_population,people_vaccinated,date,vaccines,source_name,source_website,unvaccinated
+China,1400000000,21606369.0,2020,vaccines_China,National Health Commission,http://www.nhc.gov.cn/jkj/s7915/202203/d81d339daf694f97952f10d9d8604143.shtml,unvaccinated_China
+India,1300000000,205819738.338,2021,vaccines_India,Government of India,https://dashboard.cowin.gov.in/,unvaccinated_India
+United States,331000000,80025415.381,2020,vaccines_United_States,Centers for Disease Control and Prevention,https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Trends-in-the-United-States-N/rh2h-3yt2,unvaccinated_United_States
+Brazil,213000000,43447732.662,2021,vaccines_Brazil,State governments via coronavirusbra1.github.io,https://coronavirusbra1.github.io,unvaccinated_Brazil
+Indonesia,276000000,34926315.843,2021,vaccines_Indonesia,Government of Indonesia,https://data.covid19.go.id/public/index.html,unvaccinated_Indonesia
+Germany,83000000,18851798.732,2020,vaccines_Germany,Robert Koch Institut,https://impfdashboard.de/,unvaccinated_Germany
+United Kingdom,67000000,18238350.75,2021,vaccines_United_Kingdom,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,unvaccinated_United_Kingdom
+Turkey,84000000,16076281.743,2021,vaccines_Turkey,COVID-19 Vaccine Information Platform,https://covid19asi.saglik.gov.tr/,unvaccinated_Turkey
+France,67000000,15843577.693,2020,vaccines_France,Public Health France,https://www.data.gouv.fr/fr/datasets/donnees-relatives-aux-personnes-vaccinees-contre-la-covid-19-1/,unvaccinated_France
+England,126000000,15364620.469,2021,vaccines_England,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,unvaccinated_England
+Japan,60000000,15167734.059,2021,vaccines_Japan,Prime Minister's Office,https://www.kantei.go.jp/jp/headline/kansensho/vaccine.html,unvaccinated_Japan
+Italy,130000000,14515374.355,2020,vaccines_Italy,Extraordinary commissioner for the Covid-19 emergency,https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv,unvaccinated_Italy
+Mexico,145000000,16486469.275,2020,vaccines_Mexico,Secretary of Health,http://www.gob.mx/cms/uploads/attachment/file/712810/2022.03.29_17h00_ComunicadoTecnicoDiario_Covid19__1_.pdf,unvaccinated_Mexico
+Russia,51000000,14644237.83,2020,vaccines_Russia,Official data from local governments via gogov.ru,https://gogov.ru/articles/covid-v-stats,unvaccinated_Russia
+South Korea,70000000,10675930.193,2021,vaccines_South_Korea,Korea Centers for Disease Control and Prevention,https://ncv.kdca.go.kr/,unvaccinated_South_Korea
+Thailand,46000000,10185044.923,2021,vaccines_Thailand,Government of Thailand,https://ddc.moph.go.th/covid19-dashboard/,unvaccinated_Thailand
+Argentina,38000000,10172659.178,2020,vaccines_Argentina,Ministry of Health,https://covidstats.com.ar/,unvaccinated_Argentina
+Canada,98000000,9499423.252,2020,vaccines_Canada,Official data from provinces via covid19tracker.ca,https://covid19tracker.ca/vaccinationtracker.html,unvaccinated_Canada
+Vietnam,225000000,8973631.303,2021,vaccines_Vietnam,World Health Organization,https://covid19.gov.vn/ngay-23-3-so-mac-moi-covid-19-giam-con-127883-ca-tuyen-quang-bo-sung-gan-13000-f0-171220323181603013.htm,unvaccinated_Vietnam
+Pakistan,47000000,10098336.204,2021,vaccines_Pakistan,National Command and Operation Centre,https://ncoc.gov.pk/covid-vaccination-en.php,unvaccinated_Pakistan
+Spain,32000000,7467982.637,2021,vaccines_Spain,Ministry of Health,https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Informe_Comunicacion_20220325.ods,unvaccinated_Spain
+Malaysia,165000000,6401281.444,2021,vaccines_Malaysia,Government of Malaysia,https://github.com/MoH-Malaysia/covid19-public,unvaccinated_Malaysia
+Bangladesh,19000000,7979274.719,2021,vaccines_Bangladesh,Directorate General of Health Services,http://103.247.238.92/webportal/pages/covid19-vaccination-update.php,unvaccinated_Bangladesh
+Chile,35000000,5347964.195,2020,vaccines_Chile,"Ministry of Health, via Ministry of Science GitHub repository",https://github.com/MinCiencia/Datos-COVID19,unvaccinated_Chile
+Saudi Arabia,38000000,5599904.489,2021,vaccines_Saudi_Arabia,Saudi Health Council,https://covid19.who.int/,unvaccinated_Saudi_Arabia
+Poland,85000000,5600199.334,2020,vaccines_Poland,Ministry of Health,https://www.gov.pl/web/szczepimysie/raport-szczepien-przeciwko-covid-19,unvaccinated_Poland
+Iran,33000000,5224706.726,2021,vaccines_Iran,World Health Organization,https://irangov.ir/detail/383414,unvaccinated_Iran
+Peru,51000000,5336745.515,2021,vaccines_Peru,Ministerio de Salud via github.com/jmcastagnetto/covid-19-peru-vacunas,https://www.datosabiertos.gob.pe/dataset/vacunacion,unvaccinated_Peru
+Colombia,26000000,4957726.031,2021,vaccines_Colombia,Ministry of Health,https://docs.google.com/spreadsheets/d/1eblBeozGn1soDGXbOIicwyEDkUqNMzzpJoAKw84TTA4,unvaccinated_Colombia
+Australia,113000000,4930807.882,2021,vaccines_Australia,Government of Australia via CovidBaseAU,https://covidbaseau.com/,unvaccinated_Australia
+Philippines,17000000,835630.209,2021,vaccines_Philippines,Department of Health via ABS-CBN Investigative and Research Group,https://news.abs-cbn.com/spotlight/multimedia/infographic/03/23/21/philippines-covid-19-vaccine-tracker,unvaccinated_Philippines
+Cambodia,22000000,3413219.883,2021,vaccines_Cambodia,Ministry of Health,https://web.facebook.com/MinistryofHealthofCambodia/posts/341471994676237,unvaccinated_Cambodia
+Sri Lanka,11000000,3454005.724,2021,vaccines_Sri_Lanka,Ministry of Health's Epidemiology Unit,https://www.epid.gov.lk/web/images/pdf/corona_vaccination/covid_vaccination_2022-03_22.pdf,unvaccinated_Sri_Lanka
+Cuba,17000000,2261240.331,2021,vaccines_Cuba,Ministry of Health,https://salud.msp.gob.cu/actualizacion-de-la-vacunacion-en-el-marco-de-los-estudios-de-los-candidatos-vacunales-cubanos-y-la-intervencion-sanitaria/,unvaccinated_Cuba
+Ecuador,11000000,3349395.902,2021,vaccines_Ecuador,Government of Ecuador via Ecuacovid,https://github.com/andrab/ecuacovid,unvaccinated_Ecuador
+Belgium,9000000,2763652.487,2020,vaccines_Belgium,Sciensano,https://epistat.wiv-isp.be/covid/,unvaccinated_Belgium
+Israel,23000000,2551248.524,2020,vaccines_Israel,Government of Israel,https://datadashboard.health.gov.il/COVID-19/general,unvaccinated_Israel
+Taiwan,9000000,3179143.75,2021,vaccines_Taiwan,Taiwan Centers for Disease Control,https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,unvaccinated_Taiwan
+United Arab Emirates,37000000,1056587.583,2021,vaccines_United_Arab_Emirates,National Emergency Crisis and Disaster Management Authority,https://fcsc.gov.ae/en-us/Pages/Covid19/UAE-Covid-19-Updates.aspx,unvaccinated_United_Arab_Emirates
+Morocco,10000000,2591744.94,2021,vaccines_Morocco,World Health Organization,https://covid19.who.int/,unvaccinated_Morocco
+Greece,41000000,2137737.332,2020,vaccines_Greece,Ministry of Health,https://www.data.gov.gr/datasets/mdg_emvolio/,unvaccinated_Greece
+Ukraine,19000000,2392225.901,2021,vaccines_Ukraine,Ministry of Health,https://health-security.rnbo.gov.ua,unvaccinated_Ukraine
+Romania,10000000,870469.071,2020,vaccines_Romania,Government of Romania via datelazi.ro,https://datelazi.ro/,unvaccinated_Romania
+Czechia,60000000,2057189.379,2020,vaccines_Czechia,Ministry of Health,https://onemocneni-aktualne.mzcr.cz/covid-19,unvaccinated_Czechia
+South Africa,10000000,2676046.942,2021,vaccines_South_Africa,Ministry of Health,https://sacoronavirus.co.za/latest-vaccine-statistics/,unvaccinated_South_Africa
+Portugal,8000000,1163282.598,2020,vaccines_Portugal,Directorate General for Health via Data Science for Social Good,https://github.com/dssg-pt/covid19pt-data,unvaccinated_Portugal
+Switzerland,19000000,1785726.26,2020,vaccines_Switzerland,Federal Office of Public Health,https://opendata.swiss/en/dataset/covid-19-schweiz?detGeo=CH,unvaccinated_Switzerland
+Kazakhstan,11000000,2100178.063,2021,vaccines_Kazakhstan,Government of Kazakhstan,https://www.coronavirus2020.kz/,unvaccinated_Kazakhstan
+Dominican Republic,6000000,1844623.731,2021,vaccines_Dominican_Republic,Ministry of Public Health,https://vacunate.gob.do/,unvaccinated_Dominican_Republic
+Singapore,6000000,1468018.722,2020,vaccines_Singapore,Government of Singapore,https://data.gov.sg/dataset/covid-19-vaccination,unvaccinated_Singapore
+Denmark,33000000,1416481.733,2020,vaccines_Denmark,Statens Serum Institute,https://covid19.ssi.dk/overvagningsdata/download-fil-med-vaccinationsdata,unvaccinated_Denmark
+Scotland,7000000,1483904.428,2021,vaccines_Scotland,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,unvaccinated_Scotland
+Uzbekistan,5000000,1057207.838,2021,vaccines_Uzbekistan,World Health Organization,https://covid19.who.int/,unvaccinated_Uzbekistan
+Hong Kong,4900000,1368571.612,2021,vaccines_Hong_Kong,Food and Health Bureau,https://data.gov.hk/en-data/dataset/hk-fhb-fhbcovid19-vaccination-rates-over-time-by-age,unvaccinated_Hong_Kong
+Norway,30000000,1271388.625,2020,vaccines_Norway,Norwegian Institute of Public Health,https://github.com/folkehelseinstituttet/surveillance_data,unvaccinated_Norway
+Ireland,10000000,1187626.892,2020,vaccines_Ireland,Heath Service Executive,https://covid19ireland-geohive.hub.arcgis.com/,unvaccinated_Ireland
+Nepal,11000000,1488101.343,2021,vaccines_Nepal,World Health Organization,https://covid19.mohp.gov.np/situation-report,unvaccinated_Nepal
+Azerbaijan,12000000,1118311.22,2021,vaccines_Azerbaijan,Government of Azerbaijan,https://koronavirusinfo.az,unvaccinated_Azerbaijan
+Bolivia,3500000,1350151.663,2021,vaccines_Bolivia,Ministry of Health via https://www.boligrafica.com/,https://github.com/dquintani/vacunacion/,unvaccinated_Bolivia
+Tunisia,17000000,1212633.261,2021,vaccines_Tunisia,Ministry of Health,https://web.facebook.com/santetunisie.rns.tn/posts/339797681524034?__cft__[0]=AZUiZe_DZCgQaUfW53dSTtXxKD5Vmq3M4OkNzKUMnMjzyKYqwPgH6EV-do3PCuT4TqokRZFYjLLshZ87APo1I0dbZHgTHn-95N8CB7Crpo5q1AShf3f9AQYWATKZCptNluocUhFJ8tKk3Z4cIg3qRVhQ&__tn__=%2CO%2CP-R,unvaccinated_Tunisia
+Uruguay,5000000,889650.678,2021,vaccines_Uruguay,Ministry of Health via vacuna.uy,https://monitor.uruguaysevacuna.gub.uy/,unvaccinated_Uruguay
+Guatemala,104000000,1168500.637,2021,vaccines_Guatemala,Ministry of Health,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,unvaccinated_Guatemala
+New Zealand,120000000,912748.327,2021,vaccines_New_Zealand,Ministry of Health,https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data,unvaccinated_New_Zealand
+Wales,15000000,886535.676,2021,vaccines_Wales,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,unvaccinated_Wales
+Egypt,54000000,1101722.113,2021,vaccines_Egypt,World Health Organization,https://covid19.who.int/,unvaccinated_Egypt
+Ethiopia,2800000,1343118.685,2021,vaccines_Ethiopia,World Health Organization,https://covid19.who.int/,unvaccinated_Ethiopia
+Zimbabwe,10000000,914215.909,2021,vaccines_Zimbabwe,Ministry of Health,https://www.arcgis.com/home/webmap/viewer.html?url=https://services9.arcgis.com/DnERH4rcjw7NU6lv/ArcGIS/rest/services/Vaccine_Distribution_Program/FeatureServer&source=sd,unvaccinated_Zimbabwe
+Kenya,4000000,872420.023,2021,vaccines_Kenya,Ministry of Health,https://www.health.go.ke/wp-content/uploads/2022/03/MINISTRY-OF-HEALTH-KENYA-COVID-19-IMMUNIZATION-STATUS-REPORT-19TH-MARCH-2022.pdf,unvaccinated_Kenya
+Qatar,17000000,224813.36,2020,vaccines_Qatar,Ministry of Public Health,https://covid19.moph.gov.qa/EN/Pages/Vaccination-Program-Data.aspx,unvaccinated_Qatar
+Jordan,17000000,645639.395,2021,vaccines_Jordan,World Health Organization,https://covid19.who.int/,unvaccinated_Jordan
+Croatia,7000000,578514.301,2020,vaccines_Croatia,Ministry of Health,https://www.koronavirus.hr,unvaccinated_Croatia
+Netherlands,5000000,576457.49,2021,vaccines_Netherlands,"European CDC, via Marino van Zelst",https://github.com/mzelst/covid-19,unvaccinated_Netherlands
+Lithuania,5500000,571194.255,2020,vaccines_Lithuania,Ministry of Health,https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/,unvaccinated_Lithuania
+Serbia,6500000,523102.758,2021,vaccines_Serbia,Government of Serbia,https://vakcinacija.gov.rs/,unvaccinated_Serbia
+Mongolia,1700000,564734.574,2021,vaccines_Mongolia,Ministry of Health via ikon.mn,https://ikon.mn/,unvaccinated_Mongolia
+Myanmar,9600000,594516.268,2021,vaccines_Myanmar,World Health Organization,https://mohs.gov.mm/page/18035,unvaccinated_Myanmar
+Lebanon,10000000,514901.243,2021,vaccines_Lebanon,Government of Lebanon,https://impact.cib.gov.lb/home/dashboard/vaccine,unvaccinated_Lebanon
+Northern Ireland,2000000,473158.659,2021,vaccines_Northern_Ireland,Government of the United Kingdom,https://coronavirus.data.gov.uk/details/vaccinations,unvaccinated_Northern_Ireland
+Bulgaria,214000000,122658.17,2020,vaccines_Bulgaria,Ministry of Health,https://coronavirus.bg/bg/statistika,unvaccinated_Bulgaria
+Finland,1800000,224935.805,2021,vaccines_Finland,Finnish Institute for Health and Welfare,https://sampo.thl.fi/pivot/prod/en/vaccreg/cov19cov/fact_cov19cov,unvaccinated_Finland
+El Salvador,9000000,460327.91,2021,vaccines_El_Salvador,Ministry of Health,https://covid19.gob.sv/,unvaccinated_El_Salvador
+Bahrain,41000000,361133.903,2020,vaccines_Bahrain,Ministry of Health,https://covid19.who.int/,unvaccinated_Bahrain
+Hungary,1500000,1478169.387,2020,vaccines_Hungary,Government of Hungary,https://koronavirus.gov.hu//cikkek/6-millio-402-ezer-beoltott-2906-az-uj-fertozott-es-elhunyt-40-beteg,unvaccinated_Hungary
+Sweden,6500000,352433.307,2021,vaccines_Sweden,Public Health Agency of Sweden,https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/statistik-over-registrerade-vaccinationer-covid-19/,unvaccinated_Sweden
+Slovenia,7000000,374347.194,2020,vaccines_Slovenia,National Institute of Public Health via covid-19.sledilnik.org,https://covid-19.sledilnik.org/sl/stats,unvaccinated_Slovenia
+Nigeria,28000000,523148.542,2021,vaccines_Nigeria,World Health Organization,https://covid19.who.int/,unvaccinated_Nigeria
+Latvia,32000000,335902.593,2020,vaccines_Latvia,National Health Service,https://data.gov.lv/dati/eng/dataset/covid19-vakcinacijas,unvaccinated_Latvia
+Austria,32000000,285090.938,2021,vaccines_Austria,Ministry of Health,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,unvaccinated_Austria
+Iraq,3700000,290906.434,2021,vaccines_Iraq,World Health Organization,https://covid19.who.int/,unvaccinated_Iraq
+Estonia,27000000,254747.453,2020,vaccines_Estonia,National Health Board,https://opendata.digilugu.ee,unvaccinated_Estonia
+Kyrgyzstan,1400000,244976.298,2021,vaccines_Kyrgyzstan,Ministry of Health,https://vc.emed.gov.kg/,unvaccinated_Kyrgyzstan
+Paraguay,2600000,257747.681,2021,vaccines_Paraguay,Pan American Health Organization,https://ais.paho.org/imm/IM_DosisAdmin-Vacunacion.asp,unvaccinated_Paraguay
+Venezuela,1800000,252080.543,2021,vaccines_Venezuela,Pan American Health Organization,https://covid19.who.int/,unvaccinated_Venezuela
+Mozambique,9000000,238964.964,2021,vaccines_Mozambique,World Health Organization,https://covid19.who.int/,unvaccinated_Mozambique
+Angola,41000000,249887.443,2021,vaccines_Angola,World Health Organization,https://covid19.who.int/,unvaccinated_Angola
+Georgia,1300000,210094.431,2021,vaccines_Georgia,National Center for Disease Control and Public Health,https://vaccines.ncdc.ge/vaccinationprocess/,unvaccinated_Georgia
+Cote d'Ivoire,7000000,157736.687,2021,vaccines_Cote_d'Ivoire,World Health Organization,https://covid19.who.int/,unvaccinated_Cote_d'Ivoire
+Trinidad and Tobago,28000000,169792.549,2021,vaccines_Trinidad_and_Tobago,Ministry of Health,https://services3.arcgis.com/x3I4DqUw3b3MfTwQ/arcgis/rest/services/service_7a519502598f492a9094fd0ad503cf80/FeatureServer/0/query,unvaccinated_Trinidad_and_Tobago
+Moldova,32000000,39136.885,2021,vaccines_Moldova,Ministry of Health,https://vaccinare.gov.md,unvaccinated_Moldova
+Kosovo,32000000,153018.926,2021,vaccines_Kosovo,Ministry of Health,https://msh.rks-gov.net/sq/statistikat-covid-19/,unvaccinated_Kosovo
